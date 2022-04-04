@@ -7,5 +7,5 @@
 
 + Una vez descargado lo instalamos en nuestro disco (ejecutamos el archivo mencionado anteriormente)
 +[![Sin-t-tulo2.png](https://i.postimg.cc/xTDsXQPn/Sin-t-tulo2.png)](https://postimg.cc/8s4dYq30)
-Una vez seleccionadas las opciones si continuamos el programa comenzará a instalarse![Uploading Sin título3.png…]()
+Una vez seleccionadas las opciones si continuamos el programa comenzará a instalarse!
 [![Sin-t-tulo3.png](https://i.postimg.cc/Z5VtPnfr/Sin-t-tulo3.png)](https://postimg.cc/v4gNbYwB)
